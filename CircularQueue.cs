@@ -45,7 +45,7 @@
 
                 //increment and wrap rear pointer using logic
                 r = r + 1;
-                if (r > q.Length) 
+                if (r = q.Length) 
                 {
                     r = 0;
                 }
